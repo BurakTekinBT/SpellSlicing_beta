@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MoveObject : MonoBehaviour
 {
+
     [Header("Speed variables")]
     public float minimumXSpeed;
     public float maximumXSpeed;
@@ -15,6 +16,7 @@ public class MoveObject : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+       
         gameObject.GetComponent<Rigidbody2D>().velocity = new Vector2(
             Random.Range(minimumXSpeed, maximumXSpeed), Random.Range(minimumYSpeed, maximumYSpeed));
 
