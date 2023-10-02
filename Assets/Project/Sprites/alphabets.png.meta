@@ -129,7 +129,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: alphabets_A
+      name: A
       rect:
         serializedVersion: 2
         x: 14
@@ -137,7 +137,7 @@ TextureImporter:
         width: 77
         height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -150,7 +150,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: alphabets_B
+      name: B
       rect:
         serializedVersion: 2
         x: 111
@@ -158,7 +158,7 @@ TextureImporter:
         width: 82
         height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -171,7 +171,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: alphabets_C
+      name: C
       rect:
         serializedVersion: 2
         x: 214
@@ -179,7 +179,7 @@ TextureImporter:
         width: 84
         height: 84
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -207,9 +207,10 @@ TextureImporter:
       alphabets_17: 1809837974
       alphabets_21: 1097654646
       alphabets_5: -2002637445
-      alphabets_C: -1626142910
       alphabets_25: -153981918
+      C: -1626142910
       alphabets_11: -1379641783
+      B: -1137595211
       alphabets_9: -1171061247
       alphabets_15: -806354293
       alphabets_10: 1737751931
@@ -220,13 +221,12 @@ TextureImporter:
       alphabets_23: 1009120511
       alphabets_6: 71959592
       alphabets_20: 943151107
-      alphabets_A: 1090295804
+      A: 1090295804
       alphabets_12: -2103999090
       alphabets_7: 884842010
       alphabets_19: 1239582347
       alphabets_14: 358956411
       alphabets_16: -404822307
-      alphabets_B: -1137595211
       alphabets_4: 530175947
   spritePackingTag: 
   pSDRemoveMatte: 0
